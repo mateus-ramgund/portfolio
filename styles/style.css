@@ -4,7 +4,7 @@
 @import url(/mobile.css);
 @import url(tablet.css);
 @import url(/desktop.css);
-@import url(/animation.css);
+@import url(animation.css);
 @import url(/form.css);
 
 :root {
